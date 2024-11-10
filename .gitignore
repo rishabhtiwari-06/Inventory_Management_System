@@ -1,0 +1,13 @@
+# Node.js (frontend)
+frontEnd/node_modules/
+frontEnd/.next
+frontEnd/.env
+
+# Python (backend)
+backend/__pycache__/
+backend/venv/
+backend/config.py  # Your sensitive config file, if any
+
+# Ignore other common files
+.DS_Store
+.vscode/
